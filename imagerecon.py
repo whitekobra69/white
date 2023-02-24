@@ -1,4 +1,3 @@
-from Halo import Halo
 import requests
 from bs4 import BeautifulSoup
 spinner = Halo(text=' Scanning', spinner='dots')
