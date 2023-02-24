@@ -1,4 +1,4 @@
-from socialrecon import Reconinput
+
 from webvuln import Webvuln
 cyan="\033[1;36;40m"
 green="\033[1;32;40m"
